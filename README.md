@@ -36,6 +36,8 @@
 
 This repository is a database of Elixir code smell examples organized into different categories, such as Design-related Smells, Traditional Code Smells, and Low-level Concerns. Each code smell contains 10 examples designed to simulate realistic Elixir code scenarios.
 
+The dataset was generated using ChatGPT-5.4 and validated by two Elixir experts to ensure the quality and relevance of the examples.
+
 The main goal of this repository is to provide a structured dataset that can be used as a knowledge base for Retrieval-Augmented Generation (RAG) systems. These examples can help feed a Large Language Model (LLM) with relevant code smell patterns, supporting the automatic detection and analysis of code smells in Elixir projects.
 
 <!-- Links -->
