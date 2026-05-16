@@ -65,7 +65,7 @@ The main goal of this repository is to provide a structured dataset that can be 
 [complex-branching]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/complex_branching
 [complex-else-clauses-in-with]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/complex_else_clauses_in_with
 [alternative-return-types]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/alternative_return_types
-[accessing-non-existent-mapstruct-fields]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/accessing_non_existent_mapstruct_fields
+[accessing-non-existent-mapstruct-fields]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/accessing_non_existent_map_struct_fields
 [speculative-assumptions]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/speculative_assumptions
 [modules-with-identical-names]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/modules_with_identical_names
 [unnecessary-macros]: https://github.com/labd2m/ExSmell-Train/tree/main/low_level_concerns/unnecessary_macros
